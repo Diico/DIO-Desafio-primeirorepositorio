@@ -1,0 +1,10 @@
+Comandos importantes para o git:
+
+$git status: Checar status dos arquivos (staged, modified, etc)
+$git ls: Lista os arquivos que estão dentro da pasta
+$cd ...: Guia até o local designado
+$git init: Inicia a commit dentro da pasta designada
+$git clone ...: Clona o repositório remoto para o local 
+$git add .: adiciona todos os arquivos para (staged)
+$git commit -m: Adiciona anotação/comentário dizendo o que foi feito na commit.
+$git push origin main: envia o repositório do local para nuvem
